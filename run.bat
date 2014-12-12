@@ -1,0 +1,1 @@
+java -jar CG_ImageMorphing_fat.jar -Xms256m -Xmx1024m

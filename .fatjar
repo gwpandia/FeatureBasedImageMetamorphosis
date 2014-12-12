@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Mon Dec 21 01:54:15 CST 2009
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=CG_ImageMorphing_fat.jar
+manifest.mergeall=true
+manifest.mainclass=app.UITest
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
